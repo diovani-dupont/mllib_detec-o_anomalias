@@ -11,4 +11,5 @@ A detecção dessas anomalias permitiu uma melhor compreensão dos padrões de t
 Em resumo, o uso do MLlib e do algoritmo k-means neste estudo proporcionou uma análise valiosa das temperaturas de um grupo de cidades ao redor do mundo, identificando anomalias e revelando informações sobre os padrões de temperatura e eventos climáticos incomuns.
 
 
-![World](https://user-images.githubusercontent.com/109030838/230745221-000f67a4-43a0-4b2a-9910-45390915f73f.png)
+![image](https://user-images.githubusercontent.com/109030838/230745345-205fbb85-e99f-42bd-be54-3719146a71cd.png)
+
