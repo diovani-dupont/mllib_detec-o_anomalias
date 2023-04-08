@@ -1,4 +1,4 @@
-**MLlib na detecção de anomalias**
+**MLlib na Detecção de Anomalias**
 
 Neste estudo, utilizamos o MLlib, uma biblioteca de aprendizado de máquina do Apache Spark, para analisar as temperaturas de um grupo de cidades ao redor do mundo. Aplicamos o algoritmo k-means, um método popular de clusterização, para agrupar as cidades com base em seus padrões de temperatura e detectar possíveis anomalias.
 
